@@ -1,0 +1,4 @@
+short key vscode
+
+alt z      = menampilkan keseluruhan text 
+alt shift f = sejajarkan sintak
